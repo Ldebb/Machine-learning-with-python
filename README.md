@@ -1,2 +1,4 @@
 # Machine-learning-with-python
-Tools for ML, deeplearning :  numpy, pandas, visualisation, ML  projects
+- some notebooks and python code for ML, deeplearning :  numpy, pandas, visualisation, 
+
+- ML and deeplearning  projects
